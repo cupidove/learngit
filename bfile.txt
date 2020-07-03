@@ -1,1 +1,2 @@
 this is a bfile.txt
+edit in feature1
